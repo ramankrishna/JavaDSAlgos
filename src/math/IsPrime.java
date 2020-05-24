@@ -3,8 +3,9 @@ package math;
 import java.util.Scanner;
 /**
  * 
- * @author raman
- *
+ * @author Ramakrishna Bachu
+ * @email ramankrishna10@gmail.com
+ * May 24, 2020
  */
 public class IsPrime {
 
